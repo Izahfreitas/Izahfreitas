@@ -5,7 +5,7 @@
 <hr>
 
 <div>
-  <a href="https://github.com/Denis-moreira98">
+  <a href="https://github.com/Izahfreitas">
 
 ![De's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izahfreitas&show_icons=true&theme=synthwave)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izahfreitas&layout=compact&langs_count=7&theme=synthwave"/>
